@@ -1,78 +1,69 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hey, I'm Raunak Mishra!
+</h1>
 
-###
-
-<p align="left">Hi, I'm Raunak Mishra, a passionate software developer and NIT Patna graduate. With a strong foundation in coding and problem-solving, I'm proud to be ranked among the top 2% of global LeetCode coders. I love transforming complex challenges into innovative solutions, continuously learning, and staying ahead of the tech curve. 🚀</p>
-
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">
-✨ Creating clean and efficient code<br>
-📚 Currently learning backend development with Node.js<br>
-🎯 Goals: Master full-stack development and contribute to impactful projects<br>
-🎲 Fun fact: I'm a Knight on LeetCode with a 2000+ rating! 🛡️<br>
-👨‍💻 Hands-on experience: Developed multiple projects using React.js, JavaScript, and Git for version control
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Software+Developer+%7C+Problem+Solver;LeetCode+Knight+%7C+Top+2%25+Coder;React+%7C+JavaScript+%7C+Node.js+%7C+C%2B%2B;Passionate+about+Learning+and+Building!" alt="Typing SVG">
 </p>
 
-###
+<p align="center">
+  🚀 graduated from <b>NIT Patna</b> <br>
+  🔥 Ranked among the top <b>2% of coders globally</b> on <a href="https://leetcode.com/u/raunakmishra1243/">LeetCode</a>
+</p>
 
-<h2 align="left">I code with</h2>
+---
 
-###
+<h2 align="left">About Me</h2>
+
+<p align="left">
+  I’m a passionate software developer with hands-on experience in React, JavaScript, and full-stack development. I enjoy solving complex problems, contributing to innovative projects, and constantly learning new technologies. <br><br>
+  🎯 <b>Goals:</b> Hone my skills in solving real-world challenges and building scalable, efficient applications. <br>
+  🌟 <b>Fun Fact:</b> I see every bug as a puzzle waiting to be solved—except the ones before my morning coffee! ☕ <br>
+</p>
+
+
+---
+
+<h2 align="left">I Code With</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 </div>
 
-###
+---
 
-<h2 align="left">Profiles</h2>
+<h2 align="left">Connect With Me</h2>
 
-###
-
-<div align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/raunak-mishra-115b37215" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <img width="20" />
   <a href="https://leetcode.com/u/raunakmishra1243/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode logo" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode" />
   </a>
-  <img width="20" />
-  <a href="https://auth.geeksforgeeks.org/user/raunakmishra1243" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="40" alt="GeeksforGeeks logo" />
+  <a href="https://auth.geeksforgeeks.org/user/raunakmishra1243/profile" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-008000?logo=geeksforgeeks&logoColor=white&style=for-the-badge" alt="GeeksforGeeks" />
   </a>
+</p>
+
+---
+
+<h2 align="left">Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raunakjr&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=raunakjr&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-###
+---
 
-<h2 align="left">Achievements</h2>
-
-###
-
-<p align="left">
-🌟 Ranked among the top 2% of coders globally on LeetCode<br>
-🌟 Knight batch with 2000+ rating on LeetCode<br>
-🌟 Hands-on experience with real-world projects using React.js, JavaScript, Git, and C++<br>
-</p>
+<h2 align="center">Thanks for visiting! ✌️</h2>
