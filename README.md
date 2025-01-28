@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Software+Developer+%7C+Problem+Solver;LeetCode+Knight+%7C+Top+2%25+Coder;React+%7C+JavaScript+%7C+Node.js+%7C+C%2B%2B;Passionate+about+Learning+and+Building!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=600&lines=Software+Developer+%7C+Problem+Solver;LeetCode+Knight+%7C+Among +Top+2%25+Coder;React+%7C+JavaScript+%7C+++Node.js+%7C+C%2B%2B;Passionate+about+Learning+and+Building!" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -21,7 +21,6 @@
   🎯 <b>Goals:</b> Hone my skills in solving real-world challenges and building scalable, efficient applications. <br>
   🌟 <b>Fun Fact:</b> I see every bug as a puzzle waiting to be solved—except the ones before my morning coffee! ☕ <br>
 </p>
-
 
 ---
 
