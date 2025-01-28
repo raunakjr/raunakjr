@@ -4,11 +4,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=600&lines=Software+Developer+%7C+Problem+Solver;LeetCode+Knight+%7C+Among +Top+2%25+Coder;React+%7C+JavaScript+%7C+++Node.js+%7C+C%2B%2B;Passionate+about+Learning+and+Building!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=600&lines=Software+Developer+%7C+Problem+Solver;LeetCode+Knight+%7C+Among+Top+2%25+Coder;React+%7C+JavaScript+%7C+Node.js+%7C+C%2B%2B;Passionate+about+Learning+and+Building!" alt="Typing SVG">
 </p>
 
 <p align="center">
-  🚀 graduated from <b>NIT Patna</b> <br>
+  🚀 Graduated from <b>NIT Patna</b> <br>
   🔥 Ranked among the top <b>2% of coders globally</b> on <a href="https://leetcode.com/u/raunakmishra1243/">LeetCode</a>
 </p>
 
@@ -37,6 +37,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 </div>
+
+---
+
+<h2 align="left">Languages Used</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunakjr&layout=compact&theme=radical" alt="Top Languages">
+</div>
+
+---
+
+<h2 align="left">Profile Visits</h2>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=raunakjr&label=Profile+Views&color=blue&style=flat-square" alt="Profile Views">
+</p>
 
 ---
 
