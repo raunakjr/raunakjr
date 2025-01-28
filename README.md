@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is Raunak Mishra, and I graduated from NIT Patna. I am a passionate developer with a strong foundation in coding and problem-solving, ranked among the top 2% of coders globally on LeetCode. 🚀</p>
+<p align="left">Hi, I'm Raunak Mishra, a passionate software developer and NIT Patna graduate. With a strong foundation in coding and problem-solving, I'm proud to be ranked among the top 2% of global LeetCode coders. I love transforming complex challenges into innovative solutions, continuously learning, and staying ahead of the tech curve. 🚀</p>
+
 
 ###
 
