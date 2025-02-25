@@ -48,11 +48,6 @@
 
 ---
 
-<h2 align="left">Profile Visits</h2>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=raunakjr&label=Profile+Views&color=blue&style=flat-square" alt="Profile Views">
-</p>
 
 ---
 
